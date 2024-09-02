@@ -1,0 +1,9 @@
+{
+	"name": "snapnetdb-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a88a4144-bf0e-4a76-b927-7fbf99951b85",
+		"tenantId": "ba130eca-3030-48e1-9089-c979293aeb70"
+	}
+}
